@@ -16,3 +16,16 @@ For now, I’m thinking that the solution is:
 - Untap at sorcery speed.
 
 Effectively, the priority token should be two sided, like a clean/dirty magnet on a washing machine, and you can flip it once to spend your untap (which is global) and retain priority.
+# 2026.10.11
+- Add prio to Tane and Sword protect abilities
+- Tap tools to eqip
+- Creatures handle the equip on tools
+- Jawaku needs more stuff
+	- Tap: Attack
+	- Classes Mage, Martial
+- Playing skills at any location but tools only at the home location is confusing.
+- Too much evasion
+- Tobi's firebreathing should be reactive
+- Flash step should be pay to make the next attack ability have reactive
+- Akela needs more stuff
+- Tobi needs more stuff
